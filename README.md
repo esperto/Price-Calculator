@@ -9,6 +9,8 @@ The basic formula is as follows:
 
 Assumption: Labour cost is $120/h broken down into 15 minute blocks ie: (15m = $30, 30m = $60)
 
-Part Cost (ex GST) + MARKUP = TOTALPARTRRP\n
+Part Cost (ex GST) + MARKUP = TOTALPARTRRP
+
 TOTALPARTRRP + LABOURAMOUNT = TOTALPRICEEX
+
 TOTALPRICEEX x 1.1 (GST) = Total Repair Price
